@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>WindowTemplate.qml</file>
+        <file>image/icon_close.png</file>
+        <file>ModalWindowTemplate.qml</file>
+    </qresource>
+</RCC>
